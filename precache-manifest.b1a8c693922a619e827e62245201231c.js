@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9903517d3142bc79fe02cc2a3faaba31",
+    "revision": "a85fafd85e789c6b360746f8c49321ef",
     "url": "/Currency-exchange/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Currency-exchange/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "acfdf15d4db342fa2dba",
-    "url": "/Currency-exchange/static/css/main.a7c62957.chunk.css"
+    "revision": "f01537aa1686c806d8eb",
+    "url": "/Currency-exchange/static/css/main.02eb2686.chunk.css"
   },
   {
     "revision": "f93c78d2857ac6375009",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Currency-exchange/static/js/2.9857c6fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acfdf15d4db342fa2dba",
+    "revision": "f01537aa1686c806d8eb",
     "url": "/Currency-exchange/static/js/main.f07fdbb3.chunk.js"
   },
   {
